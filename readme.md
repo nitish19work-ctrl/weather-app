@@ -13,7 +13,7 @@ The app fetches real-time weather data using the **OpenWeather API** and display
 - Responsive design for all screen sizes
 
 ## 🚀 Live Demo
-https://YOUR-USERNAME.github.io/weather-app/
+https://nitish19work-ctrl.github.io/weather-app/
 
 ## 🛠 Tech Stack
 - HTML
@@ -32,3 +32,4 @@ The API key used in this project is for **learning and demo purposes only**.
 
 ## 👨‍💻 Author
 Made with ❤️ by Nitish Pal
+
